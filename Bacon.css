@@ -1,0 +1,19 @@
+body {
+    background-color: #E0D8B0;
+}
+h1 {
+    color:rgb(211, 39, 39);
+   
+}
+
+img {
+    border-radius: 10ex;
+    height: 150px;
+    width: 140px; 
+}
+.Leg{
+    background-color: #3a4642;
+} 
+.Rice{
+    background-color: #BF7A2B;
+}
